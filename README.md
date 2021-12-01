@@ -21,11 +21,6 @@
 * ***Tables***: **Prints your account's info in table format**
 <hr>
 
-## Required Python Libraries
-* **tabulate**
-* **pycrypto**
-<hr> 
-
 <p align="center">
   <img src="https://imgur.com/Hpi4Wjm.png">
 </p>
@@ -53,8 +48,19 @@
 ```
 <hr>
 
+## Not currently working with Windows
+<hr>
+
+## Required Python Libraries
+* **tabulate**
+* **pycrypto**
+<hr>
+
+#
+<hr> 
 
 > Todos
 
 - [ ] Create `setup.py`
+- [ ] Make compatible with Windows
   - [x] Convert to Py3 from Py2
